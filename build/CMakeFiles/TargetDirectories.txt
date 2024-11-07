@@ -1,0 +1,9 @@
+/home/logical/Documents/ros2_fifa/src/my_pkg/build/CMakeFiles/uninstall.dir
+/home/logical/Documents/ros2_fifa/src/my_pkg/build/CMakeFiles/my_pkg_uninstall.dir
+/home/logical/Documents/ros2_fifa/src/my_pkg/build/CMakeFiles/test.dir
+/home/logical/Documents/ros2_fifa/src/my_pkg/build/CMakeFiles/edit_cache.dir
+/home/logical/Documents/ros2_fifa/src/my_pkg/build/CMakeFiles/rebuild_cache.dir
+/home/logical/Documents/ros2_fifa/src/my_pkg/build/CMakeFiles/list_install_components.dir
+/home/logical/Documents/ros2_fifa/src/my_pkg/build/CMakeFiles/install.dir
+/home/logical/Documents/ros2_fifa/src/my_pkg/build/CMakeFiles/install/local.dir
+/home/logical/Documents/ros2_fifa/src/my_pkg/build/CMakeFiles/install/strip.dir
